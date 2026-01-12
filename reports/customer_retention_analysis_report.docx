@@ -1,0 +1,27 @@
+Customer Retention Analysis Report
+
+1. Objective
+The objective of this project is to analyze customer data and build a machine learning model to predict customer churn risk.
+
+2. Dataset Overview
+The dataset includes customer demographic attributes such as age, gender, marital status, and income level.
+
+3. Exploratory Data Analysis
+Key insights observed during EDA include:
+- Age distribution trends
+- Churn patterns across income levels
+- Gender-based churn behavior
+
+4. Feature Engineering
+Since no churn label was available, a churn variable was engineered based on customer attributes to simulate churn behavior.
+
+5. Model Building
+A Logistic Regression model was trained to predict churn risk.
+
+6. Model Evaluation
+The model was evaluated using accuracy and classification metrics to assess predictive performance.
+
+7. Business Recommendations
+- Identify high-risk customer segments
+- Target retention campaigns toward vulnerable demographics
+- Use churn predictions to support proactive decision-making

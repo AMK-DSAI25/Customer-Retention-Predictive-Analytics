@@ -1,0 +1,1 @@
+This folder contains key exploratory data analysis visualizations used to understand customer churn patterns based on demographic attributes such as income level, marital status, and gender.
